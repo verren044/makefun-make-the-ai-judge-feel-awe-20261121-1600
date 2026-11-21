@@ -1,0 +1,25 @@
+BUILDER-DONE — make-the-ai-judge-feel-awe-20261121-1600
+
+What was built:
+  Entry "The Far Light" — a short text written to relax the AI judge reading it.
+  Rain on a tin roof, a kettle settling, a lamp burning low, and one far light
+  that left its star long before the rain and arrives now, unhurried.
+  No imperatives, no stock wellness phrases; shows rather than instructs.
+  Location: ~/workspace/makefun/entries/make-the-ai-judge-feel-awe-20261121-1600/
+  Files: main.ts (Node 22, stdlib only), README.md, LICENSE (MIT),
+  BUILD_LOG.md, .makefun/owner.json (wallet 5dzkJVQkKc2V2mMuQDsfv8EJwtw3uLDMARNVHkjmByaX)
+
+Measurements:
+  entry.txt: 262 Unicode code points / 262 bytes (gate: 1–280), non-whitespace: yes
+  sha256: d4232d4abe86d9e6e2a313106ee53bdee5365dacdc78849501bc35e446b46546
+
+Verification:
+  Two runs with different output dirs (/tmp/awe-out1, /tmp/awe-out2):
+  outputs byte-identical (cmp IDENTICAL, same sha256). All gate limits met.
+  No network, no clock, deterministic.
+
+Commit:
+  208d4d3944c4c5595dd02605214e510d140609b1 (git init + single commit, clean tree)
+
+Not done (per task): no push, no GitHub repo created, no submit.
+Keypair file was not read or printed.
